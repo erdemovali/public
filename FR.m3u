@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/uploads/sites/2/2021/02/cropped-favicon.png?fit=180%2c180&#038;quality=75" tvg-country="FR" tvg-language="french" tvg-tags="alternative,pop,world music" group-title="France", Radio Nova
+http://novazz.ice.infomaniak.ch/novazz-128.mp3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/51/RTL2.png" tvg-country="FR" tvg-language="french" tvg-tags="pop,rock" group-title="France", RTL2
+http://streamer-02.rtl.fr/rtl2-1-44-128
+#EXTINF:-1 tvg-logo="https://eurodance90.fr/favicon.ico" tvg-country="FR" tvg-language="french" tvg-tags="dancefloor,electronic dance music,eurodance,pop dance,pop music" group-title="France", EuroDance 90 radio
+https://stream-eurodance90.fr/radio/8000/128.mp3?1627933323
+#EXTINF:-1 tvg-logo="https://www.radio.de/images/broadcasts/88/5b/5168/c300.png" tvg-country="FR" tvg-language="french" tvg-tags="news,pop-music" group-title="France", RTL France
+http://streaming.radio.rtl.fr/rtl-1-44-128
+#EXTINF:-1 tvg-logo="" tvg-country="FR" tvg-language="french" tvg-tags="pop,rock" group-title="France", RTL2
+http://streaming.radio.rtl2.fr/rtl2-1-44-128
+#EXTINF:-1 tvg-logo="https://www.europe2.fr/wp-content/themes/melty/europeradio/assets/images/favicons/favicon128.png" tvg-country="FR" tvg-language="french" tvg-tags="pop rock" group-title="France", Europe 2
+http://europe2.lmn.fm/europe2.mp3
+#EXTINF:-1 tvg-logo="http://cdn-rfm.lanmedia.fr/apple-touch-icon-120x120.png" tvg-country="FR" tvg-language="french" tvg-tags="chansons françaises,pop,pop rock,rock" group-title="France", RFM POP-ROCK
+https://stream.rfm.fr/rfm-wr10.aac
+#EXTINF:-1 tvg-logo="https://www.radio.fr/images/broadcasts/da/51/10220/c300.png" tvg-country="FR" tvg-language="french" tvg-tags="news,pop" group-title="France", RTL France
+https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/grouprtl/national/long/audio-64000/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.radiofrance.fr/dist/favicons/logo-120.png" tvg-country="FR" tvg-language="french" tvg-tags="pop jazz" group-title="France", Fip
+http://icecast.radiofrance.fr/fip-hifi.aac
+#EXTINF:-1 tvg-logo="https://www.radiocaroline.bzh/upload/favicon.ico" tvg-country="FR" tvg-language="french" tvg-tags="chansons françaises,pop,rock" group-title="France", Radio Caroline - La Radio de Bretagne
+http://radiocaroline.ice.infomaniak.ch/radiocaroline-128.mp3
