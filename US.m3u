@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/indiepop-400.jpg" group-title="pop", SomaFM Indie Pop Rocks! (128k AAC)
+https://ice6.somafm.com/indiepop-128-aac
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/u80s-400.png" group-title="pop", SomaFM Underground 80s (128k MP3)
+https://ice6.somafm.com/u80s-128-mp3
+#EXTINF:-1 tvg-logo="https://demigod-assets.sgp1.cdn.digitaloceanspaces.com/landingpages/fatcai/faviconcai.webp" group-title="pop", Nostalgie New York
+http://c32.radioboss.fm:8139/stream
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/0a01b40d-6206-49dd-85f4-06d89f5f2065" group-title="pop", iHeart80s Radio
+http://stream.revma.ihrhls.com/zc5060/hls.m3u8
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.brands/61d4a04fc786e58c38995162?ops=gravity(%22center%22),contain(360,360)&quality=80" group-title="pop", 102.7 KIIS FM Los Angeles
+http://stream.revma.ihrhls.com/zc185
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s297004/images/logog.png" group-title="pop", Classic Hits 109
+https://broadcast.classichits109.com/70s-90s
+#EXTINF:-1 tvg-logo="http://www.181.fm/images/playerlanding/181.FM.jpg" group-title="pop", 181.FM - Beatles
+http://listen.181fm.com/181-beatles_128k.mp3
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/poptron-400.png" group-title="pop", SomaFM PopTron (128k MP3)
+https://ice2.somafm.com/poptron-128-mp3
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/ip3/z100.iheart.com.ico" group-title="pop", Z100 - New York's #1 Hit Music Station WHTZ
+https://stream.revma.ihrhls.com/zc1469
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.brands/2ebe753539305728784b0f3b178eae45?ops=new(),flood(%22white%22),swap(),merge(%22over%22),gravity(%22center%22),contain(167,167),quality(80),format(%22png%22)" group-title="pop", 102.7 KIIS FM
+https://stream.revma.ihrhls.com/zc185
